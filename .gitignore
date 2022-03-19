@@ -1,0 +1,10 @@
+list_optimised7.pickle
+list_optimised8.pickle
+list_optimised10.pickle
+
+kdtree.pickle
+test.py
+
+*.pyc
+
+/__pycache__
